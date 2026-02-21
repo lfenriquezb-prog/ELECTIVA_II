@@ -1,2 +1,1 @@
-# ELECTIVA_II
-TALLER DE ELECTIVA II 2026-02-20
+# AppConsoleTesting
